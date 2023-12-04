@@ -1,4 +1,4 @@
-# myPorfolio
+# myPortfolio
 Porfolio Page
 ![porfolio](https://github.com/kubraStack/myPorfolio/assets/90907447/1bd61820-fe9d-427e-a928-2a3b334b4be8)
 
